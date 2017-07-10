@@ -1,0 +1,32 @@
+
+body {
+    
+    padding-bottom: 30px;
+}
+
+.custom-btn{
+    
+    display: inline-block;
+    width:40px;
+    height:40px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 50%;
+    border: 1px solid #276cda;
+    cursor: pointer;
+    padding-top: 5px;
+    font-weight: bold;
+    background: #FFDB4A;
+    
+}
+
+.custom-btn:hover {
+    background: #ffec5b;
+}
+
+.selected {
+    
+    width:40%;
+    margin: 30px auto 0 auto;
+    
+}
