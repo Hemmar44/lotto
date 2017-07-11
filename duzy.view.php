@@ -11,7 +11,12 @@
         
         <div id="app" class="container">
             
-            <duzy></duzy>
+            
+                
+                <duzy></duzy>
+                
+                
+      
             
             
             
